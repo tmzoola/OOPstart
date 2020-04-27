@@ -15,7 +15,7 @@ class Student:
             print(self.brand, self.ram, self.cpu)
 
 s1 = Student('Murodjon',5)
-s2 = Student('tulesko',25)
+s2 = Student('relevision',25)
 lap1 = Student.Laptop()
 s1.show()
 lap1.show()
